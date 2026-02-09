@@ -20,9 +20,8 @@ function calculateFinalAmount(subtotal, coupon) {
     total = total - discount;
   } else if (normalizedCoupon === "FLAT50") {
     total = total - 50;
-  }
-  else{
-    throw new Error("Invalid Coupon")
+  } else {
+    throw new Error("Invalid Coupon");
   }
 
   return Math.max(0, Math.round(total * 100) / 100);
