@@ -1,9 +1,9 @@
 # Jest Workshop Submission
 
 ## Student Details
-- Name:
-- Roll Number:
-- GitHub Username:
+- Name:Divyansh Choudhary
+- Roll Number:2024-B-02112006A
+- GitHub Username:White-Devil2839
 
 ---
 
