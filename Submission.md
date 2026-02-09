@@ -38,10 +38,12 @@ List each test you wrote and briefly explain **what bug or regression it prevent
 
 ## CI Pipeline (if implemented)
 - Did CI pass successfully? (Yes)
-- GitHub Actions Run URL:
+- GitHub Actions Run URL:https://github.com/White-Devil2839/jest-workshop/actions/runs/21825463577
 
 ---
 
 ## Reflection (1–2 lines)
 What is **one thing** you understood better about testing or CI after this workshop?
+
+The most important thing I learned is how much time it can save for me like checking every feature again and again gets very boring over time but now it will help me a lot
 
