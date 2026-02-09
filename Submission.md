@@ -37,7 +37,7 @@ List each test you wrote and briefly explain **what bug or regression it prevent
 ---
 
 ## CI Pipeline (if implemented)
-- Did CI pass successfully? (Yes / No)
+- Did CI pass successfully? (Yes)
 - GitHub Actions Run URL:
 
 ---
