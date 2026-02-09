@@ -43,7 +43,7 @@ Prevents bugs where valid coupons are rejected due to casing differences, ensuri
 
 ## CI Pipeline (if implemented)
 - Did CI pass successfully? Yes
-- GitHub Actions Run URL: [Local Verification Successful]
+- GitHub Actions Run URL: https://github.com/yogesh968/jest-workshop/actions/runs/21825051546
 
 ---
 
